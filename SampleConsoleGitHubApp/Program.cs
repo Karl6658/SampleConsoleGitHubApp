@@ -12,6 +12,7 @@ namespace SampleConsoleGitHubApp
         static void Main(string[] args)
         {
             Trace.WriteLine("Console App Started");
+            Trace.WriteLine("Added a Second Trace");
         }
     }
 }
